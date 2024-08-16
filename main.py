@@ -620,7 +620,7 @@ async def main():
         os.system("clear")
         await client.load_extension("cogs")
         await client.load_extension("jishaku")
-        await client.start("MTE0NzE4NTY2NDAwMjEwMTI0OA.GOcrWX.jxET9HPK-8i1TjPNAUgMYcCO68i0nuJ-gwptcA")
+        await client.start("")
 
 if __name__ == "__main__":
     asyncio.run(main())
