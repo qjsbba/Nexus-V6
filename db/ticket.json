@@ -1,0 +1,20 @@
+{
+    "1271198197817016409_Test": {
+        "channel": 1271198197817016412,
+        "description": "Test",
+        "title": "Ticket Test",
+        "image": null,
+        "name": "Test",
+        "category": 1271198197817016410,
+        "role": "<@&1271221904325214341>"
+    },
+    "1271198197817016409_kk": {
+        "channel": 1271198197817016412,
+        "description": "kk",
+        "title": "kk",
+        "image": null,
+        "name": "kk",
+        "category": 1271198197817016410,
+        "role": "<@&1272461791418519552>"
+    }
+}
